@@ -9,7 +9,7 @@
   },
   "imports": {
     "cdk8s": "https://esm.sh/cdk8s@2.69.34",
-    "cdk8s-plus": "https://esm.sh/cdk8s-plus-30@2.2.17",
+    "cdk8s-plus": "https://esm.sh/cdk8s-plus-30@2.2.18",
     "constructs": "https://esm.sh/constructs@10.4.2",
     "merge": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/merge.js",
     "ts-pattern": "https://esm.sh/ts-pattern@5.6.0",
