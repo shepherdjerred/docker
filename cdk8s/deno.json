@@ -13,7 +13,7 @@
     "constructs": "https://esm.sh/constructs@10.4.2",
     "merge": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/merge.js",
     "ts-pattern": "https://esm.sh/ts-pattern@5.6.0",
-    "remeda": "https://esm.sh/remeda@2.18.0"
+    "remeda": "https://esm.sh/remeda@2.20.0"
   },
   "compilerOptions": {
     "strict": true,
